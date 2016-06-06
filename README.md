@@ -1,4 +1,4 @@
-# Создание Landing Page на WordPress
+# Создание Landing Page на WordPress Hello
 
 ![Создание Landing Page на WordPress](https://raw.githubusercontent.com/agragregra/wordpress-landing-page-lesson/master/_mockup.jpg)
 
